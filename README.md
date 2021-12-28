@@ -1,12 +1,12 @@
-/* # = h1 / ## = h2 / ### = h3
+/* # = h1 / ## = h2 / ### =  h3 */
 
 # New Project  (This is like h1 in html)
 ## New Project  (This is like h2 in html)
 ### New Project  (This is like h3 in html)
 
-*Italics*
-**Bold**
-~Strikethrough~
+*Italics*                      * text *          
+**Bold**                       ** text **         
+~Strikethrough~                ~ text ~
 
 /* *, +, _ */ 
 Can be used for Unordered list
